@@ -8,7 +8,7 @@ Once you have done that, you can clone the repository in two ways:
 In the repository you wish to clone on GitHub, navigate to the little green button that says "Code", once you are in that go to GitHub CLI and copy the text.
 
 It should look something like **"gh repo clone Adam-Wilcock/Display-Prime-Numbers-1-to-100"**
-Paste that into command prompt and that should pull the repository from GItHub and put it into your folder
+Paste that into command prompt and that should pull the repository from GitHub and put it into your folder
 If the above does not work, try this method, type into command prompt **git clone {Page URL}.git**
 
 There you go, that is how to clone my repository from GitHub to your own folder.
