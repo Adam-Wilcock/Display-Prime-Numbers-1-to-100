@@ -18,6 +18,3 @@ Now type cmd and click enter. This will open command prompt in that file locatio
 To run the visual studio program, open the folder called PrimeNumbers and double click the file called PrimeNumbers.sln. This will open the visual studio program, all you need to do now is click the start button at the top middle of your screen or press F5 on your keyboard.
 ### Running the Jupyter Notebook
 To run the jupyter notebook, double click the file called PrimeNumberDevelopmentNotebook.ipynb, this will open visual studio code allowing you to view the jupyter notebook.
-
-
-Voila!
