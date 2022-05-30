@@ -13,7 +13,7 @@ There you go, that is how to clone my repository from GitHub to your own folder.
 Once you have cloned my repository, to run it all you need to is navigate to the repository in your files and, locate the src folder and within it has all of my code including a python file, a visual studio file and a jupyter notebook.
 ### Running the Python File
 To run the python file, select it, then click the file path (should be something like **This PC>Programs**) and click it so that all the text is highlighted.
-Now type cmd and click enter. This will open command prompt in that file location. Now type the name of the python file into command prompt and this will run the python file.
+Now type cmd and click enter. This will open command prompt in that file location. Now type the name of the python file including the file type into command prompt and this will run the python file.
 ### Running the Visual Studio Program
 To run the visual studio program, open the folder called PrimeNumbers and double click the file called **PrimeNumbers.sln**. This will open the visual studio program, all you need to do now is click the start button at the top middle of your screen or press F5 on your keyboard.
 ### Running the Jupyter Notebook
