@@ -5,7 +5,8 @@ To clone and run my code, in command prompt, navigate to the file location that 
 **cd c:/{your file location}**
 
 Once you have done that, you can clone the repository in two ways:
-In the repository you wish to clone on GitHub, navigate to the little green button that says "Code", once you are in that go to GitHub CLI and copy the text. It should look something like **"gh repo clone Adam-Wilcock/Display-Prime-Numbers-1-to-100"**
+In the repository you wish to clone on GitHub, navigate to the little green button that says "Code", once you are in that go to GitHub CLI and copy the text. 
+It should look something like **"gh repo clone Adam-Wilcock/Display-Prime-Numbers-1-to-100"**
 Paste that into command prompt and that should pull the repository from GItHub and put it into your folder
 If the above does not work, try this method, type into command prompt **git clone {Page URL}.git**
 
